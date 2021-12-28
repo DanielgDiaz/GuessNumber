@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(19, 18, 18);
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+}
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
+
+.guessField {
+    border-radius: 5px;
+
+}
+
+.guessSubmit {
+    border-radius:  5px;
+}
